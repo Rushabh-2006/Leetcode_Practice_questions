@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0283-move-zeroes) |
 | [1207-unique-number-of-occurrences](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1207-unique-number-of-occurrences) |
@@ -61,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -80,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0283-move-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
