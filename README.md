@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1512-number-of-good-pairs) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1929-concatenation-of-array) |
 ## Enumeration
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1512-number-of-good-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+## Prefix Sum
+|  |
+| ------- |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
