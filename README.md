@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0027-remove-element) |
 | [0204-count-primes](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0204-count-primes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
