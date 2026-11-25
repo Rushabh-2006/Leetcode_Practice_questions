@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0027-remove-element) |
 | [0204-count-primes](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0204-count-primes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/Rushabh-2006/Leetcode_Practice_questions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
